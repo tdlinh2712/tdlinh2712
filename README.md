@@ -1,9 +1,4 @@
 ### Hi there 👋
-My name is Linh, I'm currently in my final semester for my Bachelor of Computer Science at University of Wollongong, Australia. I'm passionate about web development and building scalable, low-latency system.
-
-- 😄 Pronouns: She/her
-- 💬 Tech stack: React, TypeScript, Python and a dash of C++
-- ⚡ Hobbies: Vlogging, Indoor Plants
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tdlinh2712&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tdlinh2712&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
